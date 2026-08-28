@@ -190,3 +190,14 @@ by mathematical equivalence.
 export PYTHONPATH="$PWD/src"
 python -m unittest discover -s tests -p 'test_*.py'
 ```
+
+## Reference
+
+```bash
+@article{ichihara2026privileged,
+  title={Privileged Solutions or Context-Induced Teacher Behavior? Dissecting On-Policy Self-Distillation},
+  author={Ichihara, Yuki and Iwase, Naoto and Quamar, Mohammad Atif and Komiyama, Junpei},
+  journal={arXiv preprint arXiv:2608.09228},
+  year={2026}
+}
+```
